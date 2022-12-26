@@ -1,0 +1,28 @@
+.AnimationDiv {
+    margin-bottom: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+.text {
+    background-color: gray;
+    padding: 20px;
+    height: 100px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+
+}
+
+.TopAnimation{
+	position: relative;
+	transform: translateY(-100px);
+	opacity: 0;
+	transition: 2s all ease;
+}
+
+.TopAnimation.active{
+	transform: translateY(0);
+	opacity: 1;
+}

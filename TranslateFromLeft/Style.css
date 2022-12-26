@@ -1,0 +1,23 @@
+.AnimationDiv {
+    margin-bottom: 100vh;
+    display: flex;
+    justify-content: center;
+}
+.text {
+    background-color: gray;
+    padding: 20px;
+    height: 100px;
+    width: 300px;
+
+}
+
+.LeftAnimation{
+	position: relative;
+	transform: translateX(-100.49px);
+	opacity: 0;
+	transition: 2s all ease;
+  }
+  .LeftAnimation.active{
+	transform: translateX(0);
+	opacity: 1;
+}

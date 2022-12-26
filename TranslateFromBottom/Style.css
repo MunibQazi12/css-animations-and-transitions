@@ -1,0 +1,23 @@
+.AnimationDiv {
+    margin-bottom: 100vh;
+    display: flex;
+    justify-content: center;
+}
+.text {
+    background-color: gray;
+    padding: 20px;
+    height: 100px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.BottomAnimation{
+	position: relative;
+	transform: translateY(100px);
+	opacity: 0;
+	transition: 2s all ease;
+  }
+  .BottomAnimation.active{
+	transform: translateY(0);
+	opacity: 1;
+}
