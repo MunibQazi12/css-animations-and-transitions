@@ -14,8 +14,6 @@ Duration of the effect.
 
 **Note:** If the duration part is not specified, the transition will have no effect, because the default value is 0.
 
-**
-
 ## Core Features
 Highly optimized for touch devices.
 Mouse drag supports for desktops.
