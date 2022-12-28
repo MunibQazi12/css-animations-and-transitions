@@ -23,12 +23,12 @@ Next-generation browser support.
 Better performance on mobile devices.
 And many more.
 
-#### Blinking Moving Stars Animation
+### Blinking Moving Stars Animation
 This animation describes that blinking moving stars animation with the infinite movement into the web page.
 
 ###### Demo
 
-#### Buttons Animation
+### Buttons Animation
 These different animations are on a single button to enhance the user experience in our web applications.
 
 ##### Add to Cart Animation
