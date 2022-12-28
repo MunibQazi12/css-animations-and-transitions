@@ -19,7 +19,7 @@ Write down general information about your project. It is a good idea to always p
 ### Screenshot
 ![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
 ## Technologies
-***
+
 
 ## Core Features
 Highly optimized for touch devices.
