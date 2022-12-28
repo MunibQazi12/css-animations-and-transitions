@@ -7,7 +7,7 @@ An animation lets an element gradually change from one style to another. You can
 #### CSS Transitions
 CSS transitions allows you to change property values smoothly, over a given duration. 
 
-######## To create a transition effect, you must specify two things:
+###### To create a transition effect, you must specify two things:
 
 *the CSS property you want to add an effect to
 *the duration of the effect
