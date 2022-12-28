@@ -14,6 +14,13 @@ Duration of the effect.
 
 **Note:** If the duration part is not specified, the transition will have no effect, because the default value is 0.
 
+***
+Write down general information about your project. It is a good idea to always put a project status in the readme file. This is where you can add it. 
+### Screenshot
+![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
+## Technologies
+***
+
 ## Core Features
 Highly optimized for touch devices.
 Mouse drag supports for desktops.
