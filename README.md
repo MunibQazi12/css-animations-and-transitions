@@ -5,7 +5,7 @@ This repository is a bunch of cool, fun, and cross-browser animations for you to
 An animation lets an element gradually change from one style to another. You can change as many CSS properties you want, as many times as you want. To use CSS animation, you must first specify some keyframes for the animation. Keyframes hold what styles the element will have at certain times.
 
 #### CSS Transitions
-CSS transitions allows you to change property values smoothly, over a given duration. 
+!CSS transitions allows you to change property values smoothly, over a given duration. 
 
 ###### To create a transition effect, you must specify two things:
 
