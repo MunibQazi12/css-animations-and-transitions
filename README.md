@@ -47,6 +47,11 @@ This animating button with the background color, e.g. Hover me, etc.
 
 ###### Demo
 
+### Floating Object Animation
+This animation is infinite slowly floating object to enhance the user experience on the static objects.
+
+###### Demo 
+
 
 
 
