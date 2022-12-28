@@ -9,8 +9,8 @@ CSS transitions allows you to change property values smoothly, over a given dura
 
 ###### To create a transition effect, you must specify two things:
 
-*the CSS property you want to add an effect to
-*the duration of the effect
+--> CSS property you want to add an effect to
+--> Duration of the effect
 
 **Note:** If the duration part is not specified, the transition will have no effect, because the default value is 0.
 
