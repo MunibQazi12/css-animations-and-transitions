@@ -5,8 +5,6 @@ This repository is a bunch of cool, fun, and cross-browser animations for you to
 An animation lets an element gradually change from one style to another. You can change as many CSS properties you want, as many times as you want. To use CSS animation, you must first specify some keyframes for the animation. Keyframes hold what styles the element will have at certain times.
 
 #### CSS Transitions
-
-
 CSS transitions allows you to change property values smoothly, over a given duration. 
 
 ###### To create a transition effect, you must specify two things:
@@ -16,12 +14,7 @@ Duration of the effect.
 
 **Note:** If the duration part is not specified, the transition will have no effect, because the default value is 0.
 
-***
-Write down general information about your project. It is a good idea to always put a project status in the readme file. This is where you can add it. 
-### Screenshot
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
-## Technologies
-
+**
 
 ## Core Features
 Highly optimized for touch devices.
