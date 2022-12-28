@@ -29,12 +29,25 @@ This animation describes that blinking moving stars animation with the infinite 
 ###### Demo
 
 #### Buttons Animation
-This animation describes that blinking moving stars animation with the infinite movement into the web page.
+These different animations are on a single button to enhance the user experience in our web applications.
+
+##### Add to Cart Animation
+This animation is for the add to cart buttons on our e-commerce web applications. e.g. Add to Cart, Buy Now, Add into Basket, etc.
 
 ###### Demo
 
-#### Blinking Moving Stars Animation
-This animation describes that blinking moving stars animation with the infinite movement into the web page.
+##### Arrow Button Animation
+This animation is for the button, e.g. Read more, Learn more, etc.
 
 ###### Demo
+
+
+##### Background Color Animation
+This animating button with the background color, e.g. Hover me, etc.
+
+###### Demo
+
+
+
+
 
