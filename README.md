@@ -42,13 +42,38 @@ This animation is for the button, e.g. Read more, Learn more, etc.
 ###### Demo
 
 
-##### Background Color Animation
+##### Button Background Color Animation
 This animating button with the background color, e.g. Hover me, etc.
 
 ###### Demo
 
 ### Floating Object Animation
 This animation is infinite slowly floating object to enhance the user experience on the static objects.
+
+###### Demo 
+
+### Shaking Object Animation
+This animation is infinite rapidly shaking object to enhance the user experience on the static objects.
+
+###### Demo 
+
+### Translate from Bottom Transition
+This transition appears from bottom on moving or scrolling down the page.
+
+###### Demo 
+
+### Translate from Left Transition
+This transition appears from left on moving or scrolling down the page.
+
+###### Demo 
+
+### Translate from Right Transition
+This transition appears from right on moving or scrolling down the page.
+
+###### Demo 
+
+### Translate from Top Transition
+This transition appears from top on moving or scrolling down the page.
 
 ###### Demo 
 
