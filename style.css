@@ -1,0 +1,127 @@
+body {
+	margin: 0;
+}
+
+.page-wrapper-container {
+	background-color: black;
+	height: 100vh;
+}
+
+.page-wrapper {
+	max-width: 1024px;
+    padding: 100px;
+    margin: 0 auto;
+}
+
+.page-wrapper h1 {
+	margin: 0 0 50px 0;
+	font-family: 'Arial', sans-serif;
+	text-align: center;
+	color: #fff;
+}
+
+.animations-wrapper {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+}
+
+.animations-wrapper a {
+	text-decoration: none;
+}
+
+.blinking-moving-star, .button-animation, .float-object-animation, .shaking-object-animation, .translate-bottom, .translate-left, .translate-right, .translate-top {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	background-color: hotpink;
+	margin: 0 40px 40px 0;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+}
+
+.blinking-moving-star h4, .button-animation h4, .float-object-animation h4, .shaking-object-animation h4, .translate-bottom h4, .translate-left h4, .translate-right h4, .translate-top h4 {
+	text-align: center;
+    line-height: 26px;
+    font-family: 'Arial', sans-serif;
+}
+
+.blinking-moving-star {
+	background-color: antiquewhite;
+	transition: 0.5s transform linear;
+	color: darkcyan;
+}
+
+.blinking-moving-star:hover {
+	transform: scaleX(0.9);
+}
+
+.button-animation {
+	background-color: burlywood;
+	color: black;
+	transition: 0.5s transform linear;
+}
+
+.button-animation:hover {
+	transform: scaleX(0.9);
+}
+
+.float-object-animation {
+	background-color: azure;
+	transition: 0.5s transform linear;
+}
+
+.float-object-animation:hover {
+	transform: scaleX(0.9);
+}
+
+.shaking-object-animation {
+	background-color: brown;
+	color: cornsilk;
+	transition: 0.5s transform linear;
+}
+
+.shaking-object-animation:hover {
+	transform: scaleX(0.9);	
+}
+
+.translate-bottom {
+	background-color: aquamarine;
+	color: black;
+	transition: 0.5s transform linear;
+}
+
+.translate-bottom:hover {
+	transform: scaleX(0.9);	
+}
+
+.translate-left {
+	background-color: blueviolet;
+	color: aliceblue;
+	transition: 0.5s transform linear;
+}
+
+.translate-left:hover {
+	transform: scaleX(0.9);
+}
+
+.translate-right {
+	background-color: antiquewhite;
+	transition: 0.5s transform linear;
+}
+
+.translate-right:hover {
+	transform: scaleX(0.9);
+}
+
+.translate-top {
+	background-color: chocolate;
+	color: cornsilk;
+	transition: 0.5s transform linear;
+}
+
+.translate-top:hover {
+	transform: scaleX(0.9);
+}
