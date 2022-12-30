@@ -1,1 +1,76 @@
-style.css
+body {
+	margin: 0;
+}
+
+.page-wrapper-container {
+	background-color: #FFC000;
+	height: 100vh;
+}
+
+.page-wrapper {
+	max-width: 1024px;
+    padding: 0px;
+    margin: 0 auto;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.page-wrapper h1 {
+	margin: 0 0 50px 0;
+	font-family: 'Arial', sans-serif;
+	text-align: center;
+	color: #000;
+	font-size: 60px;
+}
+
+.animations-wrapper {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.animations-wrapper a {
+	text-decoration: none;
+}
+
+.add-cart-animation {
+	background-color: #00bcd4;
+    color: #fff;
+}
+
+.animations-wrapper a, .btn-animation {
+	max-width: 280px;
+	margin-right: 40px;
+	margin-bottom: 40px;
+	width: 100%;
+}
+
+.btn-animation {
+	text-align: center;
+    height: 90px;
+    border-radius: 50px;
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.arrow-btn-animation {
+	background-color: #3f51b5;
+	color: #fff;
+}
+
+.bg-fill-animation {
+	background-color: #f44336;
+    color: #fff;
+}
+
+.btn-animation {
+	transition: 0.5s transform linear;
+}
+
+.btn-animation:hover {
+	transform: scale(1.1);
+}
