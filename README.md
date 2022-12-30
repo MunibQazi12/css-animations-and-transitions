@@ -26,7 +26,7 @@ And many more.
 ### Blinking Moving Stars Animation
 This animation describes that blinking moving stars animation with the infinite movement into the web page.
 
-###### Demo
+###### Live Demo
 
 ### Buttons Animation
 These different animations are on a single button to enhance the user experience in our web applications.
@@ -34,48 +34,48 @@ These different animations are on a single button to enhance the user experience
 #### Add to Cart Animation
 This animation is for the add to cart buttons on our e-commerce web applications. e.g. Add to Cart, Buy Now, Add into Basket, etc.
 
-###### Demo
+###### Live Demo
 
 #### Arrow Button Animation
 This animation is for the button, e.g. Read more, Learn more, etc.
 
-###### Demo
+###### Live Demo
 
 
 #### Button Background Color Animation
 This animating button with the background color, e.g. Hover me, etc.
 
-###### Demo
+###### Live Demo
 
 ### Floating Object Animation
 This animation is infinite slowly floating object to enhance the user experience on the static objects.
 
-###### Demo 
+###### Live Demo 
 
 ### Shaking Object Animation
 This animation is infinite rapidly shaking object to enhance the user experience on the static objects.
 
-###### Demo 
+###### Live Demo 
 
 ### Translate from Bottom Transition
 This transition appears from bottom on moving or scrolling down the page.
 
-###### Demo 
+###### Live Demo 
 
 ### Translate from Left Transition
 This transition appears from left on moving or scrolling down the page.
 
-###### Demo 
+###### Live Demo 
 
 ### Translate from Right Transition
 This transition appears from right on moving or scrolling down the page.
 
-###### Demo 
+###### Live Demo 
 
 ### Translate from Top Transition
 This transition appears from top on moving or scrolling down the page.
 
-###### Demo 
+###### Live Demo 
 
 
 
